@@ -1,0 +1,3 @@
+[submodule "deeplearning.ai"]
+	path = deeplearning.ai
+	url = https://github.com/ranjiewwen/deeplearning.ai/
