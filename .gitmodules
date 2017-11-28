@@ -1,3 +1,6 @@
 [submodule "deeplearning.ai"]
 	path = deeplearning.ai
 	url = https://github.com/ranjiewwen/deeplearning.ai/
+[submodule "Computer-Vision-Action"]
+	path = Computer-Vision-Action
+	url = https://github.com/ranjiewwen/Computer-Vision-Action
